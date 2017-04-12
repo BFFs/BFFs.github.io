@@ -1,0 +1,61 @@
+#pic-one{
+height: 250px;
+width: 350px;	
+}
+
+.ui-header .ui-title{
+	color: turquoise;
+	font-size: 30px !important;
+}
+
+a.ui-link.ui-btn.ui-shadow.ui-corner-all {
+	background: white;
+	color: black;
+}
+
+#pictwo{
+	width:370px; 
+}
+
+.img-div {
+	text-align: center;
+}
+#picthree{
+	height: 300px;
+	width: 280px;
+}
+
+#rock{
+	height:150px; 
+	width:150px;
+	background-color:white;
+}
+
+#paper{
+	height:150px;
+	width: 150px;
+	background-color:white;                                                                                                                                              
+}
+
+#scissors{
+    height:150px; 
+    width:150px;
+    background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
