@@ -4,18 +4,20 @@ var scissors = document.getElementById('scissors');
 var paper = document.getElementById('paper');
 var rock = document.getElementById('rock');
 var PYM = document.getElementById('PYM');
+var score = 0; 
+var compScore = 0; 
 
-function playscissors() {
-  PYM.innerHTML = "you played scissors";
-}
+scissors.addEventListener('click', function(){
+PYM.innerHTML = "You picked Scissors."
+});
 
-function playpaper() {
-   PYM.innerHTML = "you played paper";
-}
+paper.addEventListener('click', function(){
+PYM.innerHTML = "You picked Paper."
+});
 
-function playrock() {
-  PYM.innerHTML = "you played rock";
-}
+rock.addEventListener('click', function(){
+PYM.innerHTML = "You picked Rock."
+});
 
 
 });
